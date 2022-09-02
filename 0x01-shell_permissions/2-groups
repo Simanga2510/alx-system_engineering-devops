@@ -1,4 +1,2 @@
 #!/bin/bash
-groups >> 2-groups
-echo groups
 groups
