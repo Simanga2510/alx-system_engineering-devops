@@ -1,2 +1,4 @@
-0  string SCHOOL School data
+0   string SCHOOL School data
+l:mlme School>>school.mgc
+echo l:mlme School
 l:mlme School
